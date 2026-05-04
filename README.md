@@ -1,98 +1,68 @@
-<h1 align="center">⚡ CHAKRA ABDEDAYM</h1>
-<h3 align="center">Software Engineering Student | Backend Enthusiast | Problem Solver</h3>
+# ☁️ CHAKRA ABDEDAYM
+### Cloud • DevOps • AI Engineer (in progress)
 
-<p align="center">
-  💻 Building real-world projects • 🌐 Exploring networks • ⚡ Learning by doing
-</p>
+*Designing systems • Automating workflows • Learning deeply*
+
+![Tech Stack](https://skillicons.dev/icons?i=linux,python,docker,git,github,js,react,fastapi,bash)
 
 ---
 
 ## 🧭 About Me
 
-- 🎓 Software Engineering Student  
-- 🌍 Based in Morocco  
-- 🧠 Passionate about backend development & networking  
-- 🚀 I focus on understanding how systems work deeply  
-- 🔥 Always improving through real projects  
+- **Name:** CHAKRA ABDEDAYM  
+- **Location:** Morocco  
+- **Role:** Future Cloud / DevOps / AI Engineer  
 
----
+### 🎯 Focus
+- Cloud Computing ☁️  
+- DevOps & Automation ⚙️  
+- Backend Systems 🧠  
+- AI Integration 🤖  
 
-## 🚀 Current Focus
-
-- 📧 Building an **Email Validator App** (FastAPI + React + SMTP)
-- 🌐 Working on **SDN (Software Defined Networking)**
-- 🐳 Learning **Docker & deployment**
-- ⚡ Improving performance & clean code practices  
-
----
-
-## 🧠 Mindset
-
-> "I don't just code to finish tasks, I code to understand systems."
+### 🧠 Mindset
+- "Understand before using"  
+- "Automate everything possible"  
+- "Build to learn, not just to finish"  
 
 ---
 
 ## ⚙️ Tech Stack
 
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
-</p>
+![Languages](https://skillicons.dev/icons?i=python,js,html,css,bash)
 
-### 🧰 Tools & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,react,git,docker,linux" />
-</p>
+### ⚙️ Backend & Tools
+![Backend](https://skillicons.dev/icons?i=fastapi,nodejs,git,github)
 
----
+### ☁️ Cloud & DevOps (Learning Path)
+![DevOps](https://skillicons.dev/icons?i=docker,linux,nginx)
 
-## 📊 GitHub Stats
+### 🌐 Networking
+![Networking](https://skillicons.dev/icons?i=cloudflare)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHAKRAbdedaym&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHAKRAbdedaym&theme=tokyonight" />
-</p>
+## 🧠 Engineering Philosophy
+
+> A good engineer doesn’t just use tools…  
+> they understand the system behind them.
 
 ---
 
-## 🚀 Featured Project
+## 📌 Vision
 
-### 📧 Email Validator Application
-
-🔹 Upload CSV files  
-🔹 Syntax, MX & SMTP validation  
-🔹 Proxy support 🌐  
-🔹 Parallel processing ⚡  
-🔹 Clean React frontend  
-
-👉 Built with: FastAPI + React  
+- ☁️ Design scalable cloud systems  
+- ⚙️ Automate infrastructure  
+- 🤖 Build intelligent applications  
+- 🚀 Solve real performance problems  
 
 ---
 
-## 📈 Activity Graph
+## 📫 Contact
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CHAKRAbdedaym&theme=tokyo-night" />
-</p>
+- 📧 chakraabdedaym@gmail.com  
 
 ---
 
-## 📫 Contact Me
+## ⚡ Personal Signature
 
-- 📧 Email: chakraabdedaym@gmail.com  
-- 💼 LinkedIn: (add your link here)
-
----
-
-## ⚡ Fun Fact
-
-> I debug more than I code… and that’s where real learning happens 😄
-
----
-
-<p align="center">
-  ⭐ If you like my work, feel free to check my repositories!
-</p>
+**Think → Build → Break → Fix → Improve**
