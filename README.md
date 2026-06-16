@@ -12,7 +12,7 @@
 
 <br/>
 
-![Status](https://img.shields.io/badge/Status-Always%20Learning-0ea5e9?style=for-the-badge) ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=0ea5e9&style=for-the-badge&label=Profile%20Views)
+![Status](https://img.shields.io/badge/Status-Always%20Learning-0ea5e9?style=for-the-badge) ![Profile Views](https://komarev.com/ghpvc/?username=CHAKRAbdedaym&color=0ea5e9&style=for-the-badge&label=Profile%20Views)
 
 </div>
 
@@ -75,16 +75,16 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=CHAKRAbdedaym&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAKRAbdedaym&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=CHAKRAbdedaym&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=CHAKRAbdedaym&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
