@@ -19,15 +19,7 @@
 
 <p align="center"><img src="assets/achievements.svg" width="100%" alt="Certifications and education — AWS Cloud Practitioner Essentials (2025), Java 17 and Java 21 (Oracle), AI Foundations (Oracle); 3rd place at RAMADANIA, SkillUp IT 2026 and DEV4DAYS; IRISI Club coordinator; State Engineering Degree at FST Marrakech (2024–2027), DEUST MIP at FST Errachidia, high school diploma in Physical Sciences." /></p>
 
-<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CHAKRAbdedaym/CHAKRAbdedaym/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CHAKRAbdedaym/CHAKRAbdedaym/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/CHAKRAbdedaym/CHAKRAbdedaym/output/github-snake.svg" />
-</picture>
-
-</div>
 
 <p align="center"><img src="assets/connect.svg" width="100%" alt="Let's build something great — looking for a final-year internship (PFE) starting February 2027 in DevOps, AI or Full-Stack. chakraabdedaym@gmail.com" /></p>
 
