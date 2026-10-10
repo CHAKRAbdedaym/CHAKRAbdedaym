@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<h2>📊 GitHub Activity</h2>
+<h2> GitHub Activity</h2>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=CHAKRAbdedaym&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f172a&title_color=0ea5e9&icon_color=38bdf8&text_color=cbd5e1" alt="GitHub Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHAKRAbdedaym&layout=compact&hide_border=true&langs_count=8&bg_color=0f172a&title_color=0ea5e9&text_color=cbd5e1" alt="Top Languages" />
